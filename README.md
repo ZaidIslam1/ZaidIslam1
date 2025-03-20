@@ -61,3 +61,31 @@
 
 _💡 Fun Fact: I love playing games (Call of Duty: Warzone) currently 🎮
 
+--------------------------------------------------------------------------------
+
+Hi, I'm Zaid Islam! 👋
+About Me
+🎓 Computer Science student passionate about AI, Embedded Systems, and Game Development.
+🤖 StarCraft 2 AI Developer: Built a Zerg macro bot for competitive bot tournaments.
+🔥 Systems & Performance Enthusiast: Experienced in parallel computing, low-level optimization, and assembly programming.
+🏆 Android & OpenGL Developer: Created event management apps and grid-based pathfinding for simulations.
+🚀 Currently exploring RISC-V Assembly, operating systems, and compiler optimization.
+🛠 Tech Stack
+Programming Languages
+
+Frameworks & Tools
+
+📌 Notable Projects
+🤖 StarCraft 2 AI Bot
+Built a competitive Zerg bot using s2client-api.
+Prioritized macro strategies (resource management, expansion control).
+Implemented Mutalisk/Roach harassment, creep-based movement, and range-aware kiting.
+📱 Event Lottery System
+Android app that lets users register for lottery-based event sign-ups.
+Uses Firebase for real-time database management.
+Supports QR code scanning, admin dashboard, and entrant tracking.
+🕹 Grid-Based Pathfinding
+C++ OpenGL simulation with A search*, octile movement, and connectivity caching.
+Designed for CMPUT 350, focusing on efficient pathfinding for tile-based environments.
+📫 Connect With Me
+
