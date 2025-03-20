@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Computer Science student at **University of Alberta** passionate about AI, Embedded Systems, and Game Development.
+- 🎓 3rd Year Computer Science student at **University of Alberta** passionate about AI, Embedded Systems, and Game Development.
 - 🤖 StarCraft 2 AI Developer: Built a Zerg macro bot for competitive bot tournaments.
 - 🔥 Systems & Performance Enthusiast: Experienced in parallel computing, low-level optimization, and assembly programming.
 - 🏆 Android & OpenGL Developer: Created event management apps and grid-based pathfinding for simulations.
@@ -53,10 +53,6 @@
 - Backend system for **managing Twitter interactions**
 - Implements **user engagement tracking** and **sentiment analysis**
 - Optimized database queries for **efficient data retrieval**
-
-## GitHub Stats
-
-![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaidIslam1&show_icons=true&theme=dark)
 
 ---
 
