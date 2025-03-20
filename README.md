@@ -1,4 +1,4 @@
-#                                            Hi, I'm Zaid Islam! 👋
+# Hi, I'm Zaid Islam! 👋
 
 ## About Me
 
