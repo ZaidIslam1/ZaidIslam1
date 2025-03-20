@@ -4,7 +4,6 @@
 
 - 🎓 **Computer Science** student at the **University of Alberta**
 - 🤖 Passionate about **AI, game development, and backend systems**
-- 💡 Currently working on **StarCraft 2 Zerg AI Bot & Hand Tracking Gesture Control**
 - 📚 Always learning about **AI, Computer Vision, and Distributed Systems**
 - 🚀 Looking to collaborate on **AI-powered applications and system optimizations**
 - 🔍 Check out my projects on [GitHub](https://github.com/ZaidIslam1)
@@ -26,7 +25,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Platforms & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,5 +59,5 @@
 
 ---
 
-_💡 Fun Fact: I love working on AI bots that compete against human players in real-time games!_ 🎮
+_💡 Fun Fact: I love playing games (Call of Duty: Warzone) currently 🎮
 
