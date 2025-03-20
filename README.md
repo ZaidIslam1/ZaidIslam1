@@ -56,4 +56,4 @@
 
 ---
 
-_💡 Fun Fact: I love playing games (Call of Duty: Warzone) currently 🎮
+💡 Fun Fact: I love playing games (Call of Duty: Warzone) currently 🎮
