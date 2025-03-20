@@ -2,10 +2,11 @@
 
 ## About Me
 
-- 🎓 **Computer Science** student at the **University of Alberta**
-- 🤖 Passionate about **AI, game development, and backend systems**
-- 📚 Always learning about **AI, Computer Vision, and Distributed Systems**
-- 🚀 Looking to collaborate on **AI-powered applications and system optimizations**
+- 🎓 Computer Science student at **University of Alberta** passionate about AI, Embedded Systems, and Game Development.
+- 🤖 StarCraft 2 AI Developer: Built a Zerg macro bot for competitive bot tournaments.
+- 🔥 Systems & Performance Enthusiast: Experienced in parallel computing, low-level optimization, and assembly programming.
+- 🏆 Android & OpenGL Developer: Created event management apps and grid-based pathfinding for simulations.
+- 🚀 Currently exploring RISC-V Assembly, operating systems, and compiler optimization.
 - 🔍 Check out my projects on [GitHub](https://github.com/ZaidIslam1)
 
 ## Connect with me:
