@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 3rd Year Computer Science student at **University of Alberta** passionate about AI, Embedded Systems, and Game Development.
+- 🎓 4th Year Computer Science student at **University of Alberta** passionate about AI, Embedded Systems, and Game Development.
 - 🤖 StarCraft 2 AI Developer: Built a Zerg macro bot for competitive bot tournaments.
 - 🔥 Systems & Performance Enthusiast: Experienced in parallel computing, low-level optimization, and assembly programming.
 - 🏆 Android & OpenGL Developer: Created event management apps and grid-based pathfinding for simulations.
